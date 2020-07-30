@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Payton. 👋</h2>
-<h1>I'm a Developer</h1>
+## Hi, I'm Payton. 👋
+# I'm a Developer
 
 Here are some ideas to get you started:
 
