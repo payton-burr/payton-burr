@@ -1,8 +1,6 @@
 ## Hi, I'm Payton. 👋
 # I'm a Developer
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my front-end skills
 - 🌱 I’m currently learning responsive design
 - 💬 Ask me about anything front-end
