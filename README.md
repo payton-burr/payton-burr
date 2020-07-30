@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning responsive design
 - 💬 Ask me about anything front-end
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm and audiophile freak!
+- ⚡ Fun fact: I'm an audiophile freak!
 
 🏡 [website][website] **|**
 👔 [linkedin][linkedin]
