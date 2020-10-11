@@ -3,7 +3,7 @@
 # I'm a Developer
 
 - 🔭 I’m currently working on my front-end skills
-- 🌱 I’m currently learning advanced web architecture
+- 🌱 I’m currently learning web architecture/API's
 - 💬 Ask me about anything front-end
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an audiophile freak!
