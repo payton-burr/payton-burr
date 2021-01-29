@@ -7,7 +7,7 @@
 
 - 📚 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://payton-burr.github.io](payton-burr.github.io)
+- 👨‍💻 All of my projects are available at [payton-burr.github.io](https://payton-burr.github.io/)
 
 - 💬 Ask me about **anything!**
 
