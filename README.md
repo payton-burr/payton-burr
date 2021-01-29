@@ -1,9 +1,7 @@
-<h1 align="center">Hey 👋, I'm Payton</h1>
-<h3 align="center">Software Developer from Salt Lake City</h3>
+## Hey there 👋
+### I'm a Front-End Developer from Salt Lake City, Utah
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=payton-burr&label=Profile%20views&color=0e75b6&style=flat" alt="payton-burr" /> </p>
-
-- 💻 I’m currently working on **Netflix Clone**
+- 💻 I’m currently working on a **Netflix Clone**
 
 - 📚 I’m currently learning **React**
 
