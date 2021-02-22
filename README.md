@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on a **Netflix Clone**
 
-- 📚 I’m currently learning **React**
+- 📚 I’m currently learning **Node**
 
 - 👨‍💻 All of my projects are available at [payton-burr.github.io](https://payton-burr.github.io/)
 
