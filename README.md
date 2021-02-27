@@ -1,7 +1,7 @@
 ## Hey there 👋
 ### I'm a Front-End Developer from Salt Lake City, Utah
 
-- 💻 I’m currently working on a **Netflix Clone**
+- 💻 I’m currently working on a **My Portfolio**
 
 - 📚 I’m currently learning **Node**
 
