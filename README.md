@@ -1,9 +1,9 @@
 ## Hey there 👋
 ### I'm a Front-End Developer from Salt Lake City, Utah
 
-- 💻 I’m currently working on a **My Portfolio**
+- 💻 I’m currently working on a **New Portfolio**
 
-- 📚 I’m currently learning **Node**
+- 📚 I’m currently learning **Node & Express**
 
 - 👨‍💻 All of my projects are available at [payton-burr.github.io](https://payton-burr.github.io/)
 
