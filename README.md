@@ -1,7 +1,7 @@
 ## Hey there 👋
 ### I'm a Front-End Developer from Salt Lake City, Utah
 
-- 💻 I’m currently working on a **New Portfolio**
+- 💻 I’m currently working on a some new projects
 
 - 📚 I’m currently learning **Node & Express**
 
