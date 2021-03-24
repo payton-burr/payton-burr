@@ -1,5 +1,5 @@
 ## Hey there 👋
-### I'm a Front-End Developer from Salt Lake City, Utah
+### I'm a Software Engineer from Salt Lake City, Utah
 
 - 💻 I’m currently working on a some new projects
 
