@@ -11,7 +11,7 @@
 - 📚 Learning all about **JavaScript**
 - 🎧 Audiophile and enjoys listening to music
 
-##### LANGUAGES/FRAMEWORKS
+##### LANGUAGES / FRAMEWORKS
 `html` `css` `sass` `javascript` `typescript` `react` `redux`
 
 ##### TOOLS
