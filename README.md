@@ -9,7 +9,7 @@
 
 - 📰 I'm currently open to work
 - 📚 Learning all about **JavaScript**
-- 🎧 Audiophile and enjoys listening to music
+- 🎧 Audio enthusiast
 
 ##### LANGUAGES / FRAMEWORKS
 `html` `css` `sass` `javascript` `typescript` `react` `redux`
