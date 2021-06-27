@@ -3,7 +3,7 @@
 #### I'm a Front-End Developer from Salt Lake City, Utah
 
 - 👨‍💻 Website: [payton-burr.github.io](https://payton-burr.github.io/)
-- ✉️ Reach me: [twitter.com/paytonburr_](https://twitter.com/paytonburr_)
+- ✉️ Reach me: [paytonburr@outlook.com](paytonburr@outlook.com)
 
 ##### BIO
 
