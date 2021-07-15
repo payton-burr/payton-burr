@@ -45,6 +45,7 @@ I'm Payton, a developer from Salt Lake City, Utah.
 ## Contact
 [<img alt="Outlook Mail" src="https://img.shields.io/badge/-Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />](mailto:paytonburr@outlook.com)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payton-burr)
+[<img alt="Website" src="https://img.shields.io/badge/-→ Portfolio-1a2b34?style=for-the-badge" />](https://codepen.io/payton-burr)
 [<img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/payton-burr)
 
 
