@@ -8,9 +8,6 @@ I'm Payton, a developer from Salt Lake City, Utah.
 🎯 My goal is to become a Front-End developer.\
 📚 I'm learning more about [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).\
 🎧 I'm also an audio enthusiast.
-  
-<!-- - 👨‍💻 Website: [payton-burr.github.io](https://payton-burr.github.io/)
-- ✉️ Reach me: [paytonburr@outlook.com](mailto:paytonburr@outlook.com) -->
 
 ## Languages / Frameworks
 <p>
