@@ -5,8 +5,8 @@ Welcome!\
 I'm Payton, a developer from Salt Lake City, Utah.
 
 💡 I'm passionate about learning new technologies and continuously growing.\
-🎯 My goal is to become a Front-End developer.\
-📚 I'm learning more about [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).\
+🎯 My goal is to become a Software Engineer.\
+📚 Currently learning [Node.Js](https://nodejs.dev) and testing with [Jest](https://jestjs.io)\
 🎧 I'm also an audio enthusiast.
 
 ## Languages / Frameworks
