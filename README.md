@@ -6,7 +6,7 @@ I'm Payton, a developer from Salt Lake City, Utah.
 
 💡 I'm passionate about learning new technologies and continuously growing.\
 🎯 My goal is to become a Software Engineer.\
-📚 Currently learning [Node.Js](https://nodejs.dev) and testing with [Jest](https://jestjs.io)\
+📚 Currently learning [React](https://reactjs.org)
 🎧 I'm also an audio enthusiast.
 
 ## Languages / Frameworks
