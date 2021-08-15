@@ -40,4 +40,4 @@ I'm Payton, a developer from Salt Lake City, Utah.
 [<img alt="Website" src="https://img.shields.io/badge/-→ Portfolio-1a2b34?style=for-the-badge" />](https://payton-burr.github.io)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/payton-burr)
 [<img alt="Outlook Mail" src="https://img.shields.io/badge/-Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />](mailto:paytonburr@outlook.com)
-[<img alt="Glitch" src="https://img.shields.io/badge/-Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white" />](https://codepen.io/payton-burr)
+[<img alt="Glitch" src="https://img.shields.io/badge/-Glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white" />](https://glitch.com/@payton-burr)
