@@ -6,7 +6,6 @@ I'm Payton, a developer from Salt Lake City, Utah.
 
 💡 I'm passionate about learning new technologies and continuously growing.\
 📚 Currently learning [TypeScript](https://www.typescriptlang.org)\
-🎧 I'm also an audio enthusiast.
 
 ## Languages / Frameworks
 <p>
